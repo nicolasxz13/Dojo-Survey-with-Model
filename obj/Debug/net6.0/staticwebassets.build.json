@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "kr/ACKEWJ5oDVpSylnPq03ERb/vRQQi4DuFCEWJG0D4=",
+  "Source": "Dojo Survey with Model",
+  "BasePath": "_content/Dojo Survey with Model",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Dojo Survey with Model\\wwwroot",
+      "Source": "Dojo Survey with Model",
+      "ContentRoot": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Dojo Survey with Model\\wwwroot\\",
+      "BasePath": "_content/Dojo Survey with Model",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Dojo Survey with Model\\wwwroot\\css\\styles.css",
+      "SourceId": "Dojo Survey with Model",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Dojo Survey with Model\\wwwroot\\",
+      "BasePath": "_content/Dojo Survey with Model",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Dojo Survey with Model\\wwwroot\\css\\stylesresult.css",
+      "SourceId": "Dojo Survey with Model",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Dojo Survey with Model\\wwwroot\\",
+      "BasePath": "_content/Dojo Survey with Model",
+      "RelativePath": "css/stylesresult.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\stylesresult.css"
+    }
+  ]
+}

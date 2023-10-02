@@ -1,0 +1,28 @@
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\bin\Debug\net6.0\appsettings.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\bin\Debug\net6.0\Dojo Survey with Model.staticwebassets.runtime.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\bin\Debug\net6.0\Dojo Survey with Model.exe
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\bin\Debug\net6.0\Dojo Survey with Model.deps.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\bin\Debug\net6.0\Dojo Survey with Model.runtimeconfig.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\bin\Debug\net6.0\Dojo Survey with Model.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\bin\Debug\net6.0\Dojo Survey with Model.pdb
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\Dojo Survey with Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\Dojo Survey with Model.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\Dojo Survey with Model.AssemblyInfo.cs
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\Dojo Survey with Model.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\Dojo Survey with Model.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\Dojo Survey with Model.RazorAssemblyInfo.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\Dojo Survey with Model.RazorAssemblyInfo.cs
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\staticwebassets\msbuild.Dojo Survey with Model.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\staticwebassets\msbuild.build.Dojo Survey with Model.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dojo Survey with Model.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dojo Survey with Model.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\scopedcss\bundle\Dojo Survey with Model.styles.css
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\Dojo Survey with Model.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\refint\Dojo Survey with Model.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\Dojo Survey with Model.pdb
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\Dojo Survey with Model.genruntimeconfig.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Model\obj\Debug\net6.0\ref\Dojo Survey with Model.dll
